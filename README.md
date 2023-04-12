@@ -1,1 +1,1 @@
-# latihan-laravel
+# laravel
